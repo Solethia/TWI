@@ -1,0 +1,13 @@
+fileFormatVersion: 2
+guid: 1df3b8270a5ec45468c1a05df8561b9f
+MonoImporter:
+  serializedVersion: 2
+  defaultReferences:
+  - shootEffect: {fileID: 100002, guid: 4350dde845adec346a1393c5cd76e3d9, type: 2}
+  - stabEffect: {fileID: 100002, guid: 03ca996e3e0ee97408a9e795a05f3148, type: 2}
+  - hackEffect: {fileID: 100000, guid: 391fe1611449e5544b5cc5908a38063c, type: 2}
+  - missEffect: {fileID: 100000, guid: 34abedbc41e445b4ebfe98b019990003, type: 2}
+  - failedEffect: {fileID: 100000, guid: 34abedbc41e445b4ebfe98b019990003, type: 2}
+  executionOrder: -100
+  icon: {instanceID: 0}
+  userData: 
